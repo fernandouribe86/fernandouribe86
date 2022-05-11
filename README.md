@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Fernando!
+- 👀 I’m interested in building exciting projects.
+- 🌱 I’m currently learning full-stack web development
+- 💞️ I’m looking to collaborate on new business ideas.
